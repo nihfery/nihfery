@@ -83,6 +83,8 @@ Currently, I work as a **Full-Stack Developer at PT. Takein Technology Indonesia
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihfery/nihfery/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/nihfery/nihfery/output/github-contribution-grid-snake.svg" alt="Animated snake generated from Fery's GitHub contribution graph" />
   </picture>
+
+  <sub>Synced automatically from GitHub every 6 hours.</sub>
 </div>
 
 <br />
