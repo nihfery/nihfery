@@ -26,7 +26,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: nihfery
-          # A fine-grained PAT lets the graph include selected private repositories.
+          # A PAT with read:user lets the graph include private contribution counts.
           # The built-in token remains a safe fallback when the secret is not configured.
           github_token: ${{ secrets.SNAKE_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
