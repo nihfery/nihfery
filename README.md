@@ -75,20 +75,6 @@ Currently, I work as a **Full-Stack Developer at PT. Takein Technology Indonesia
 - Zahir Accounting Certification (2023)
 - Digital Marketing - Accenture (2024)
 
-## Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihfery/nihfery/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihfery/nihfery/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/nihfery/nihfery/output/github-contribution-grid-snake.svg" alt="Animated snake generated from Fery's GitHub contribution graph" />
-  </picture>
-
-  <sub>Synced automatically from GitHub every 6 hours.</sub>
-</div>
-
-<br />
-
 <p align="center">
   <sub>Building reliable products across web, backend, blockchain, and design.</sub>
 </p>
