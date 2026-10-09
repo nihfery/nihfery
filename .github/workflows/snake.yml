@@ -26,7 +26,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: nihfery
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # A fine-grained PAT lets the graph include selected private repositories.
+          # The built-in token remains a safe fallback when the secret is not configured.
+          github_token: ${{ secrets.SNAKE_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
