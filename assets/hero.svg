@@ -1,6 +1,6 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Fery — Developer and Designer</title>
-  <desc id="desc">A minimal animated profile banner for Fery.</desc>
+  <title id="title">Mohammad Fery Salim - Full-Stack Developer</title>
+  <desc id="desc">Profile banner for Mohammad Fery Salim, a full-stack and Web3 developer based in Bandung, Indonesia.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
@@ -107,20 +107,20 @@
     <g transform="translate(72 54)">
       <g class="fade">
         <circle class="pulse" cx="5" cy="5" r="5" fill="#34D399"/>
-        <text x="20" y="10" class="overline" fill="#A1A1AA">AVAILABLE TO COLLABORATE</text>
+        <text x="20" y="10" class="overline" fill="#A1A1AA">FULL-STACK DEVELOPER</text>
       </g>
 
       <text x="0" y="103" class="name fade delay-1" fill="#FAFAFA">Fery<tspan fill="url(#accent)">.</tspan></text>
-      <text x="3" y="148" class="subtitle fade delay-2" fill="#A1A1AA">Developer · Designer · Curious Mind</text>
+      <text x="3" y="148" class="subtitle fade delay-2" fill="#A1A1AA">Go &#183; Next.js &#183; React &#183; Web3</text>
     </g>
 
     <g transform="translate(870 207)">
       <g class="fade delay-3">
         <text x="0" y="0" class="meta" fill="#71717A">BASED IN</text>
-        <text x="0" y="25" class="meta" fill="#E4E4E7">INDONESIA</text>
+        <text x="0" y="25" class="meta" fill="#E4E4E7">BANDUNG, ID</text>
         <rect x="116" y="-12" width="1" height="48" fill="#3F3F46"/>
         <text x="142" y="0" class="meta" fill="#71717A">FOCUS</text>
-        <text x="142" y="25" class="meta" fill="#E4E4E7">WEB · DESIGN · WEB3</text>
+        <text x="142" y="25" class="meta" fill="#E4E4E7">WEB &#183; BACKEND &#183; WEB3</text>
       </g>
     </g>
 
